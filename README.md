@@ -1,1 +1,1 @@
-# Roulette-Unity2D-Tutorial
+# 『初めてでも安心！　Unity5の教科書 2D&3Dスマートフォンゲーム入門講座』 著　北村愛実 の Chapter 3　ルーレットです
